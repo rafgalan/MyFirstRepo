@@ -6,6 +6,10 @@ this is a third line
 this is a fourth line
 
 
+
+
+Hey guys...! I am Ioannis Pantelakis and this is my first commit!
+
 Hello, I am Stamatis Sideris and this is my first Commit.
 
 
@@ -27,6 +31,7 @@ Hello i am Dimitris Giannakopoulos and this is my first commit !
 
 this is my contribution Angel Lyk
 3 hours later :D
+
 
 
 
