@@ -6,6 +6,9 @@ this is a third line
 this is a fourth line
 
 
+
+Hello I am Spyros Bertzeletos and this is my first commit.
+
 Hello i am Christos Nounis, this is my first commit !
 
 
